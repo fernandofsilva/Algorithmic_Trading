@@ -1,1 +1,1 @@
-# Quantitative Analysis
+# Algorithmic Trading
